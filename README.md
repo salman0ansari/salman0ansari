@@ -9,8 +9,3 @@
   <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange">
 </p>
 
-<!-- <p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=aveek-saha&repo=pixel-weather">
-</p> -->
-

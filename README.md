@@ -1,5 +1,5 @@
 
-<p align="center">
+<div align="center">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/salman0ansari/salman0ansari/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
@@ -9,5 +9,5 @@
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange">
-</p>
+</div>
 

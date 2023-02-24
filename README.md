@@ -8,6 +8,20 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=salman0ansari&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange">
+  <div id="badges">
+  <a href="https://github.com/salman0ansari">
+    <img src="https://komarev.com/ghpvc/?username=salman0ansari&style=for-the-badge&color=orange" alt="Profile View Badge"/>
+  </a>
+  <br>
+  <a href="https://www.instagram.com/salman0ansari/">
+     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://t.me/salman0ansari">
+    <img src="https://img.shields.io/badge/Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+   <a href="https://join.skype.com/invite/rI5pLf9YIvTA">
+    <img src="https://img.shields.io/badge/Skype-00AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype Badge"/>
+  </a>
+</div>
 </div>
 
